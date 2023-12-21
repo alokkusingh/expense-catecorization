@@ -1,5 +1,6 @@
 # expense-catecorization
-ML Expense Categorization
+
+Expense Categorization Machine Learning Model Training
 
 ## Supervised Learning
 
