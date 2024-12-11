@@ -26,3 +26,11 @@ Expense Categorization Machine Learning Model Training
 ## Unsupervised Learning
 
 ## Reinforcement Learning
+
+# Jupyter Notebook
+## Start Anaconda
+## Launch Jupyter Notebook
+## Open Notebook
+http://localhost:8888/notebooks/git/expense-catecorization/ExpenseCategorization.ipynb
+## Run
+Kernel >> Restart & Run All
